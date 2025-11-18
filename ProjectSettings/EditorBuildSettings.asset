@@ -8,4 +8,11 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/PlaneRunner/Scenes/Level_1.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/menudeinicio.unity
+    guid: 263b2e027a7edda4eb7b623fc0b844d2
+  - enabled: 1
+    path: Assets/Scenes/Prototype 1.unity
+    guid: 84729eeda748340d0955715b6a50b370
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
